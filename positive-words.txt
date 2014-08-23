@@ -123,6 +123,7 @@ approve
 ardent
 ardently
 ardor
+ardour
 articulate
 aspiration
 aspirations
@@ -282,6 +283,7 @@ chic
 chivalrous
 chivalry
 civility
+civilise
 civilize
 clarity
 classic
@@ -304,6 +306,7 @@ coherence
 coherent
 cohesive
 colorful
+colourful
 comely
 comfort
 comfortable
@@ -706,6 +709,10 @@ favored
 favorite
 favorited
 favour
+favourable
+favoured
+favourite
+favouritedd
 fearless
 fearlessly
 feasible
@@ -723,6 +730,7 @@ fervently
 fervid
 fervidly
 fervor
+fervour
 festive
 fidelity
 fiery
@@ -888,6 +896,7 @@ hardy
 harmless
 harmonious
 harmoniously
+harmonise
 harmonize
 harmony
 headway
@@ -909,6 +918,7 @@ heroic
 heroically
 heroine
 heroize
+heroes
 heros
 high-quality
 high-spirited
@@ -921,6 +931,10 @@ honor
 honorable
 honored
 honoring
+honour
+honourable
+honoured
+honouring
 hooray
 hopeful
 hospitable
@@ -937,10 +951,14 @@ humorous
 humorously
 humour
 humourous
+humourously
 ideal
 idealize
+idealise
 ideally
 idol
+idolise
+idolised
 idolize
 idolized
 idyllic
@@ -977,6 +995,7 @@ improving
 incredible
 incredibly
 indebted
+individualised
 individualized
 indulgence
 indulgent
@@ -1086,6 +1105,7 @@ light-hearted
 lighter
 likable
 like
+likeable
 liked
 likes
 liking
@@ -1168,6 +1188,12 @@ merrily
 merriment
 merriness
 merry
+mesmerise
+mesmerise
+mesmerised
+mesmerises
+mesmerising
+mesmerisingly
 mesmerize
 mesmerized
 mesmerizes
@@ -1287,6 +1313,7 @@ permissible
 perseverance
 persevere
 personages
+personalised
 personalized
 phenomenal
 phenomenally
@@ -1336,6 +1363,7 @@ prefer
 preferable
 preferably
 prefered
+preferred
 preferes
 preferring
 prefers
@@ -1426,6 +1454,7 @@ ready
 reaffirm
 reaffirmation
 realistic
+realisable
 realizable
 reasonable
 reasonably
@@ -1515,11 +1544,15 @@ revere
 reverence
 reverent
 reverently
+revitalise
 revitalize
 revival
 revive
 revives
 revolutionary
+revolutionise
+revolutionised
+revolutionises
 revolutionize
 revolutionized
 revolutionizes
@@ -1571,6 +1604,7 @@ satisified
 saver
 savings
 savior
+saviour
 savvy
 scenic
 seamless
@@ -1669,6 +1703,7 @@ sporty
 spotless
 sprightly
 stability
+stabilise
 stabilize
 stable
 stainless
@@ -1710,10 +1745,15 @@ sturdier
 sturdy
 stylish
 stylishly
+stylised
 stylized
 suave
 suavely
 sublime
+subsidise
+subsidised
+subsidises
+subsidising
 subsidize
 subsidized
 subsidizes
@@ -1776,6 +1816,9 @@ swiftness
 talent
 talented
 talents
+tantalise
+tantalising
+tantalisingly
 tantalize
 tantalizing
 tantalizingly
@@ -1809,6 +1852,7 @@ thumbs-up
 tickle
 tidy
 time-honored
+time-honoured
 timely
 tingle
 titillate
@@ -1904,6 +1948,7 @@ user-replaceable
 valiant
 valiantly
 valor
+valour
 valuable
 variety
 venerate
