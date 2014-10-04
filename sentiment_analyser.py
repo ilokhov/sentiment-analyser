@@ -79,7 +79,6 @@ def analyse(input_url):
 	# check if there are any matches at all
 	# matches exist
 	if totalMatches > 0:
-		# CAN NOT DIVIDE BY ZERO! CHECK IF IT IS GREATER THAN ZERO...
 		positivePercentage = (numPositiveMatches / float(totalMatches)) * 100
 		negativePercentage = (numNegativeMatches / float(totalMatches)) * 100
 
