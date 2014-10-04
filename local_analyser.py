@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import csv
-import urllib
+import urllib2
 from bs4 import BeautifulSoup
 
 ### retrieve and save lists of positive and negative words ###
@@ -19,8 +19,8 @@ negativeWords = getWords("negative-words.txt")
 
 ### retrieve list of words from html document ###
 # set the url
-source = "http://example.com"
-url = urllib.urlopen(source)
+source = "http://www.example.com"
+url = urllib2.urlopen(source)
 htmlSource = url.read()
 url.close()
 soup = BeautifulSoup(htmlSource)
