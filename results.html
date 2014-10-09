@@ -13,20 +13,17 @@
 
     	<div class="main">
             <span class="heading">Submitted URL:</span><br><br>
-            {{ input_url }}<br><br><br><br>
+            {{ input_url }}<br><br><br>
 	        <span class="heading">Results:</span><br><br>
             <div class="inner">
                 <div>Positive words contained: <span>{{ percentage_pos }}</span>%</div>
                 <div>Negative words contained: <span>{{ percentage_neg }}</span>%</div>
                 <div>Total terms: <span>{{ terms_total }}</span> | Positive terms: <span>{{ terms_pos }}</span> | Negative terms: <span>{{ terms_neg }}</span></div><br>
                 <div>Full list of positive words: <span>{{ list_pos }}</span></div><br>
-                <div>Full list of negative words: <span>{{ list_neg }}</span></div><br><br><br>
+                <div>Full list of negative words: <span>{{ list_neg }}</span></div><br><br>
             </div>
             <a href="/">Submit another URL</a>
-        </div>
-
-        <div class="footer">
-        	<a href="https://github.com/ilokhov/sentiment-analyser">Source</a>
+            <a href="https://github.com/ilokhov/sentiment-analyser" class="source">Source</a>
         </div>
 
     </body>
