@@ -34,15 +34,15 @@ def analyse(input_url):
 
 	# test if the url exists/works, return an error if not
 	try:
-	    urllib2.urlopen(source_http)
+		urllib2.urlopen(source_http)
 	except ValueError, ex:
-	    return 0, str(ex)
+		return 0, str(ex)
 	except urllib2.HTTPError, ex:
-	    return 0, str(ex)
+		return 0, str(ex)
 	except urllib2.URLError, ex:
-	    return 0, str(ex)
+		return 0, str(ex)
 	except Exception, ex:
-	    return 0, str(ex)
+		return 0, str(ex)
 
 	url = urllib2.urlopen(source_http)
 	htmlSource = url.read()
