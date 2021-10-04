@@ -21,6 +21,6 @@ Usage
 
 An online version of the script is hosted on Google App Engine:
 
-http://sentiment-analyser.appspot.com/
+~~http://sentiment-analyser.appspot.com/~~ (app no longer available online because Google changed something in Google App Engine and I can't be bothered to investigate and fix it)
 
 The script can also be run locally, just use local_analyser.py. In order to use this script locally, Python as well as the Beautiful Soup library need to be installed.
